@@ -1,4 +1,4 @@
-# Invoice Generator - React App
+# Invoice Generator - React App (Working)
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -36,4 +36,5 @@ npm start / npm run build
 ### Meta
 
 John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+
 
