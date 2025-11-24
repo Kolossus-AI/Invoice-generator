@@ -12,10 +12,8 @@ html,
   min-height: 100vh
 }
 .btn {
-  font-size: 0.9rem;
-  font-weight: 400;
-  padding: 0.66rem;
-  border-radius: 0.5rem;
+  font-size: 0.9rem; font-weight: 100;
+  padding: 0.66rem; border-radius: 1px;
   box-shadow: 0 .1rem .1rem rgba(0,0,0,.05)!important
 }
 .App-link {
