@@ -39,3 +39,6 @@ npm start / npm run build
 John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
 
 
+
+## Changelog
+- 2025-12-03 — IGG-10: Issue fixed
