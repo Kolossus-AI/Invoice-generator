@@ -12,9 +12,11 @@ html,
   min-height: 100vh
 }
 .btn {
-  font-size: 0.9rem; font-weight: 100;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 3px;
+  box-shadow: 0 .1rem .1rem rgba(0,0,0,.05)!important;
   padding: 0.66rem; border-radius: 1px;
-  box-shadow: 0 .1rem .1rem rgba(0,0,0,.05)!important
 }
 .App-link {
   color: #61dafb;
